@@ -1,4 +1,10 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+Name:Vimala Rani A
+
+roll no:212223040240
+
+Date:20/03/2025
+
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
@@ -52,11 +58,20 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 ## STM 32 CUBE PROGRAM :
 
+![Screenshot 2025-04-11 113445](https://github.com/user-attachments/assets/2efc8d5a-1b8e-4f38-8fa9-dab6bf912c28)
+![Screenshot 2025-04-11 113500](https://github.com/user-attachments/assets/14e5c2a6-aef2-4451-bcdd-ec2d51019553)
+
+
 
 
 ## Output  :
- 
+
 ## layout of the circuit 
+
+
+![Screenshot 2025-04-11 113510](https://github.com/user-attachments/assets/46036143-09ec-4413-90cf-4a0c2f30776d)
+
+
  
  
 ## Result :
